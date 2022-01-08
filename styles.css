@@ -1,4 +1,9 @@
 .title {
 
- font-family: Roboto;
+ font-family: 'Roboto', sans-serif;
+}
+
+p {
+
+ font-family: 'Roboto', sans-serif;
 }
